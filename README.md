@@ -18,6 +18,6 @@ Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end p
 
 # Prazo:
 Até 3 dias.
-Enviar para: marcos@equipe.sandersdigital.com.br
+Envie seu teste em zip (*teste-front-end-SEUNOME*) para: marcos@equipe.sandersdigital.com.br
 
-## Boa sorte!!!
+**Boa sorte!**

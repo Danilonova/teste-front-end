@@ -17,7 +17,7 @@ Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end p
 5. Não tenha pressa! Iremos avaliar a qualidade do seu código, mesmo incompleto e principalmente a sua semântica.
 
 # Prazo:
-Até 3 dias.
+Até 2 dias.
 Envie seu teste em zip (*teste-front-end-SEUNOME*) para: marcos@equipe.sandersdigital.com.br
 
 **Boa sorte!**
